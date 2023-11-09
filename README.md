@@ -1,5 +1,5 @@
-# HR-Analytics-Dashboard Using Microsoft Power BI
-This project is a Human Resources (HR) Analytics Dashboard built using Microsoft Power BI. The dashboard provides valuable insights into HR-related data, helping organizations make informed decisions about their workforce. Whether you want to analyze employee performance, track recruitment metrics, or monitor employee satisfaction, this dashboard can be a valuable tool for HR professionals and decision-makers.
+# HR-Analytics  Using Microsoft Power BI
+##This project is a Human Resources (HR) Analytics Dashboard built using Microsoft Power BI. The dashboard provides valuable insights into HR-related data, helping organizations make informed decisions about their workforce. Whether you want to analyze employee performance, track recruitment metrics, or monitor employee satisfaction, this dashboard can be a valuable tool for HR professionals and decision-makers.
 Features
 Interactive Visualizations: The dashboard includes a variety of interactive charts, graphs, and tables that allow users to explore HR data from different perspectives.
 
